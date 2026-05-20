@@ -1,4 +1,4 @@
-# FreeAiHR - AI时代下的人力资源系统-全量代码
+# FreeAiHR-PostJobs - AI时代下的人力资源系统-全量代码
 <p align="left">
   <img src="https://img.shields.io/badge/Java-17-orange" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.2.5-green" alt="Spring Boot">
@@ -12,13 +12,16 @@
 
 AI 面试，AI 简历，AI 人力资源！FreeAiHR 是一款企业级、人工智能时代下的智能招聘解决方案，支持私有化部署，AI 驱动的全流程招聘管理系统！
 
+ 
+# 📖 本仓库代码功能：企业自主发布简历
+
 全量代码，无缺失，如遇bug，尽快提交。
 
-# Roadmap 路线图
+## Roadmap 路线图
 
-（1）V1.0功能：企业自助发布简历，求职者可以直接投递；已完成。
+（1）V1.0功能：企业自助发布简历，求职者可以直接投递；已完成；本项目。
 
-（2）V2.0功能：AI辅助面试，AI一面；已完成。
+（2）V2.0功能：AI辅助面试，AI一面；已完成，见：https://github.com/FreeAiHR/FreeAiHR
 
 （3）AI培训、AI考核、AI评价；正在开发，欢迎加群，提出建议！！！
 
