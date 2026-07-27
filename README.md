@@ -249,8 +249,7 @@ SSO登录界面，方便使用：
 200-2k转账即可（可备注公司名称、个人姓名等标识信息，用于readme中的感谢墙）。
 希望你加群，不断提出需求，在AI时代一起迭代！一起想需求，一起增代码，一起进步！
 
-
-<img width="223.6" height="304.8" alt="66484146948f2c82ae88fd2b4001d8db" src="https://github.com/user-attachments/assets/023c9e16-078b-4810-b40e-ac65535a8c57" />
+<img width="442.5" height="744" alt="a59661d23876d0ec815462ca1ca420bf" src="https://github.com/user-attachments/assets/e3f4f5b0-060a-4c2a-ba28-b74f812e3733" />
 
 ## 🤝 欢迎使用我们团队的大模型呼叫中心
 
