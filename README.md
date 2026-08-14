@@ -235,7 +235,7 @@ SSO登录界面，方便使用：
 
 点击 # Star后，入群讨论：
 
-<img width="177" height="297.6" alt="3578c36825ef86aff9005442191ccf8b" src="https://github.com/user-attachments/assets/c1c071b9-d658-4f52-bdb9-cd382c5a17fe" />
+<img width="885" height="1488" alt="1aca78ba15d0d31826b7dce72f92d912" src="https://github.com/user-attachments/assets/46302e11-5c7a-4c38-9abf-3fdabaea89bc" />
 
 扫码添加客服小编微信
 
