@@ -27,7 +27,7 @@ AI 面试，AI 简历，AI 人力资源！FreeAiHR 是一款企业级、人工�
 
 （4）V4.0功能：AI培训、AI考核，已完成，还在迭代升级，该模块完整代码请fork：https://github.com/FreeAiHR/FreeAiHR-Learn
 
-
+## 目前工作：将上述1-4的功能，整合为一个统一系统！
 
 ### ✨ 核心特性
 
